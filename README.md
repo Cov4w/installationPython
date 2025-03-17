@@ -8,6 +8,12 @@
 
 ### 필요 프로그램 다운
 1. anaconda 또는 Miniconda를 이용해서 python interpreter를 설치했다. ![이미지1](image/installMiniconda.png)
+2. VScode를 설치했다. ![이미지2](image/installVScode.png)
 
-### 먼저 Miniconda와 VScode를 설치한다.
-### 개발을 할 폴더를 생성한 뒤 해당 폴더에서 VScode를 실행시킨 후 python Extention을 설치한다.
+### 파이썬 가상환경
+3. 가상환경 생성 ![이미지3](image/pythonSet.png)
+4. 가상환경과 VScode를 연결 ![이미지4](image/connectVScode.png)
+
+### 결과물 확인
+5. 
+
