@@ -15,5 +15,5 @@
 4. 가상환경과 VScode를 연결 ![이미지4](image/connectVScode.png)
 
 ### 결과물 확인
-5. 
+5. chatGPT에게 물어본 코드를 VScode 가상환경에서 실행시켰다. ![이미지5](image/final.png)
 
