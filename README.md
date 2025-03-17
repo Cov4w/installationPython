@@ -10,7 +10,7 @@
 1. anaconda 또는 Miniconda를 이용해서 python interpreter를 설치했다. ![이미지1](image/installMiniconda.png)
 2. VScode를 설치했다. ![이미지2](image/installVScode.png)
 
-### 파이썬 가상환경
+### 파이썬 가상환경 만들기
 3. 가상환경 생성 ![이미지3](image/pythonSet.png)
 4. 가상환경과 VScode를 연결 ![이미지4](image/connectVScode.png)
 
