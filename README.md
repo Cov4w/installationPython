@@ -16,7 +16,7 @@
 
 ### 주소록 프로그래밍
 
-
+'''
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLineEdit, QPushButton, QLabel, QHBoxLayout, QListWidget
 class AddressBookApp(QWidget):
@@ -108,7 +108,7 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = AddressBookApp()
     sys.exit(app.exec_())
-
+'''
 
 ### 결과물 확인
 5. chatGPT에게 물어본 코드를 VScode 가상환경에서 실행시켰다. ![이미지5](image/final.png)
